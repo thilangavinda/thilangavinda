@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Thilan Gavinda</h1>
-<h3 align="center">I am an Associate Software Engineering at Sampath Bank PLC. My interests are in Full Stack Development, QA Automation and Mobile App Development.</h3>
+<h3 align="center">I am a Software Engineering at Sampath Bank PLC. My interests are in Full Stack Development, QA Automation and Mobile App Development.</h3>
 
-- 🌱 I’m currently learning **Flutter, Micro Services**
+- 🌱 I’m currently learning **Flutter, React Native and Micro Services**
 <!--
 - 👨‍💻 Portfolio Link )
 
